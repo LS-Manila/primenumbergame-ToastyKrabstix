@@ -1,6 +1,5 @@
 # primenumbergame-ToastyKrabstix
 
-primenumbergame-melvincabatuan created by Classroom for GitHub
 
 This assignment illustrates the usage of a simple Buttons and basic Event handling. It also introduces the application of toasts for user feedback.
 
